@@ -1,0 +1,11 @@
+{
+  "name": "bot",
+  "language": "javascript",
+  "manager": "yarn",
+  "token": "OTQ0MTg1ODk4NzQ3MTY2NzQx.Yg97pA._w1KuW7Gs1xT2rnkolKFkWsH3XQ",
+  "prefix": "",
+  "owners": [
+    "seperate ids in with ,",
+    "and incase in quotes"
+  ]
+}
